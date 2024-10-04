@@ -10,3 +10,5 @@ https://steamcommunity.com/sharedfiles/filedetails/comments/3302425224
 - Add 9x19mm +P Sig Sauer NATO 124gr M17 FMJ (Full Metal Jacket) according to Sig Sauer 2024 datas: 365m/s (1198fps) barrel length 4.0".
 - Add 9x19mm +P Sig Sauer NATO 124gr M17 V-Crown JHP (Jacketed Hollow Point) according to Sig Sauer 2024 datas: 365m/s (1198fps) barrel length 4.0".
 - Add "ACE_RailHeightAboveBore" from ACE3 "checkScopes.sqf".
+
+Bohemia Interactive forum's download links: https://forums.bohemia.net/forums/topic/288737-jca-mp5a5-compat-ace3/
