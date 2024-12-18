@@ -8,6 +8,6 @@ Ace3 compatibility for the Arma 3 weapon mod "JCA - MP5A5" by Grave: [Steam Work
 - Add 9x19mm +P Sig Sauer NATO 124gr M17 V-Crown JHP (Jacketed Hollow Point) according to Sig Sauer 2024 datas: 365m/s (1198fps) barrel length 4.0".
 - Add "ACE_RailHeightAboveBore" from ACE3 "checkScopes.sqf".
 
-Download link: [Bohemia Interactive forums](https://forums.bohemia.net/forums/topic/288737-jca-mp5a5-compat-ace3/)
+Download links: [Bohemia Interactive forums](https://forums.bohemia.net/forums/topic/288737-jca-mp5a5-compat-ace3/)
 
 License: [Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
